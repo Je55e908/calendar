@@ -1,0 +1,47 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td,th{
+    border: 2px solid black;
+    width: 14%;
+}
+th{
+    padding: 8px 0;
+    background-color: teal;
+    color: lightblue;
+}
+td{
+    font-weight: bold;
+    font-size: 23px;
+    padding-bottom: 60px;
+}
+.weekend{
+    background-color: purple;
+    color:white;
+}
+.schoolday{
+    background-color: lime;
+    color:blue;
+}
+.holiday{
+    background-color: black;
+    color:darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
